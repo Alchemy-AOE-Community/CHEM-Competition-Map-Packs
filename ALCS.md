@@ -16,4 +16,4 @@ https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps
 
 https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_10_Cataclysm
 
-https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_11_Comet
+https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_11_Comet_V1
