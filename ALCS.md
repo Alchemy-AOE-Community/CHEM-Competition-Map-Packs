@@ -1,19 +1,16 @@
 
+https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Workshop_XingXing/Kroraina
 
-https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_01_Asteroid_Belt
+https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Workshop_Biscuits/Workshop_Biscuits/Gugong
 
-https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_03_Jupiter
+https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Workshop_TechChariot/Workshop_TechChariot/_Workshop/Shimmerpool
 
-https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_04_Mars
+https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Workshop_Zetnus/Workshop_Zetnus/Lagoon_Forest
 
-https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_05_Neptune
+https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Workshop_Jasouki/Workshop_Jasouki/The_Thaw
 
-https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_06_Saturn
+https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Workshop_welcometorapture/Shattered_Plains
 
-https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_07_Singularity
+https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Workshop_XingXing/Ruoergai
 
-https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_08_Syzygy
-
-https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_10_Cataclysm
-
-https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Space_Maps/Space_Maps/SPC_11_Comet_V1
+https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Workshop_Jasuni/Workshop_Jasuni/Confluence
