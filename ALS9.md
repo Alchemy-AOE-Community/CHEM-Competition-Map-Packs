@@ -1,0 +1,1 @@
+https://github.com/Alchemy-AOE-Community/CHEM-Random-Map-Scripts/tree/Workshop_Zetnus/Workshop_Zetnus/RAND_01_Hyperrandom
